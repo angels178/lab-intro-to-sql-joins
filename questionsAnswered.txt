@@ -1,0 +1,5 @@
+- Which resource did you choose to use?
+I just the sql zoo (https://sqlzoo.net/wiki/SQL_Tutorial).
+
+- What are three things you learned during this lab?
+The three things I learned in this lab are creating table for the database, learning the sql joins such as the inner, right, left and full joins, and practicing sql I have learned so far in class.
